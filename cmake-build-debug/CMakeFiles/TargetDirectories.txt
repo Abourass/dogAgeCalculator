@@ -1,0 +1,3 @@
+/home/navi/CLionProjects/dogAgeCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/navi/CLionProjects/dogAgeCalculator/cmake-build-debug/CMakeFiles/dogAgeCalculator.dir
+/home/navi/CLionProjects/dogAgeCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
